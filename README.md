@@ -1,4 +1,4 @@
-# 🌙・ lorevity
+# 🌑 ・ lorevity
 
 `LuaU developer | Graphic designer`
 
