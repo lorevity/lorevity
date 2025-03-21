@@ -3,7 +3,7 @@
 Building tools that blend code and design for 100k+ users.
 
 ## 🚀 Projects
-### **Ene AI (Active Development)**
+### **[Private] Ene AI (Active Development)**
 Python-based emotional AI modeled "Ene" from Mekaku City Actors
 - Architecting LLM-driven personality core with dynamic mood simulation
 - Training NLP models on anime dialogue datasets for character authenticity
