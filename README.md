@@ -33,5 +33,5 @@ One-click automation for Roblox farming economies
 If you have any questions or if you would like to discuss something, I would be happy to provide you with a list of my social networks and other sources of information so that we can get in touch:
 
 [![YouTube](https://img.shields.io/badge/YouTube-@lorevity-FF0000)](https://www.youtube.com/@lorevity) <br />
-[![GitHub](https://img.shields.io/badge/GitHub-@lorevity-181717)](https://github.com/lorevity) <br />
 [![Discord](https://img.shields.io/badge/Discord-@lorevity-5865F2)](https://discordapp.com/users/937392908200472649) <br />
+[![GitHub](https://img.shields.io/badge/GitHub-@lorevity-181717)](https://github.com/lorevity) <br />
