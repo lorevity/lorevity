@@ -9,22 +9,22 @@ Python-based emotional AI modeled "Ene" from Mekaku City Actors
 - Training NLP models on anime dialogue datasets for character authenticity
 - Designing real-time facial expression synthesis
 
-### **Visualise (Discontinued)**  
+### **Visualise (Discontinued)**
 Feature-rich Blade Ball script with 35k+ Discord members
 - Designed **low-latency UI** with dynamic effects
 - Created modular exploit and visual features
 - Scaled community to 35k via viral [videos](https://youtube.com/@lorevity)
 
-### **[*nullptr](https://discord.gg/swqnDC5WPC)**
+### **[*nullptr](https://discord.gg/swqnDC5WPC) (Side Project)**
 One-click automation for Roblox farming economies
 - Led UI/UX design for a script used by 10k+ active users
-- Architected anti-detection system with 99.8% uptime  
-- Reduced farming time by 90% through a lot of optimizations 
+- Architected anti-detection system with 99.8% uptime
+- Reduced farming time by 90% through a lot of optimizations
 - Collaborated with 3 developers to launch MVP in a few months
 
 ![nullptr-banner](https://github.com/user-attachments/assets/263c6d62-6858-4ae6-a3bb-7dbea8efa593)
 
-## 🛠️ Skills  
+## 🛠️ Skills
 **Code**: LuaU, Python (PyTorch, NLTK), C++ <br />
 **AI/ML**: LLM Fine-Tuning, Sentiment Analysis, NLP <br />
 **Design**: Figma, Adobe After Effects, Abode Photoshop, Abode Lightroom, Blender <br />
