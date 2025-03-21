@@ -17,7 +17,7 @@ Feature-rich Blade Ball script with 35k+ Discord members
 
 ### **[*nullptr](https://discord.gg/swqnDC5WPC) (Side Project)**
 One-click automation for Roblox farming economies
-- Led UI/UX design for a script used by 10k+ active users
+- Led UI/UX design for a script with 100k+ active executions
 - Architected anti-detection system with 99.8% uptime
 - Reduced farming time by 90% through a lot of optimizations
 - Collaborated with 3 developers to launch MVP in a few months
