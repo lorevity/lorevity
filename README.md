@@ -25,7 +25,7 @@ One-click automation for Roblox farming economies
 ![nullptr-banner](https://github.com/user-attachments/assets/263c6d62-6858-4ae6-a3bb-7dbea8efa593)
 
 ## 🛠️ Skills
-**Code**: LuaU, Python (PyTorch, NLTK), C++ <br />
+**Code**: Lua, LuaU, Python (PyTorch, NLTK), C++ <br />
 **AI/ML**: LLM Fine-Tuning, Sentiment Analysis, NLP <br />
 **Design**: Figma, Adobe After Effects, Abode Photoshop, Abode Lightroom, Blender <br />
 
