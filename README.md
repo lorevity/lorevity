@@ -3,11 +3,11 @@
 Building tools that blend code and design for 100k+ users.
 
 ## 🚀 Projects
-### **[Private] Ene AI (Active Development)**
-Python-based emotional AI modeled "Ene" from Mekaku City Actors
+### **[Private] Luna AI (Active Development)**
+Python-based emotional AI modeled "Luna"
 - Architecting LLM-driven personality core with dynamic mood simulation
-- Training NLP models on anime dialogue datasets for character authenticity
-- Designing real-time facial expression synthesis
+- Training NLP models on discord/twitch dialogue datasets for character authenticity
+- Designing real-time expression
 
 ### **Visualise (Discontinued)**
 Feature-rich Blade Ball script with 35k+ Discord members
