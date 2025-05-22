@@ -3,11 +3,11 @@
 Building tools that blend code and design for 100k+ users.
 
 ## 🚀 Projects
-### **[Private] Luna AI (Active Development)**
-Python-based emotional AI modeled "Luna"
+### **[Private] seira.ai (Active Development)**
+Python-based LLM with interesting features for socializing with people
 - Architecting LLM-driven personality core with dynamic mood simulation
 - Training NLP models on discord/twitch dialogue datasets for character authenticity
-- Designing real-time expression
+- Designing real-time expression based out of conversation
 
 ### **Visualise (Discontinued)**
 Feature-rich Blade Ball script with 35k+ Discord members
