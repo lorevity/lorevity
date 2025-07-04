@@ -16,7 +16,7 @@ Building tools that blend code and design for 100k+ users.
 ![nullptr-banner](https://github.com/user-attachments/assets/263c6d62-6858-4ae6-a3bb-7dbea8efa593)
 
 # 🛠️ Skills
-**Code**: Lua, LuaU, Python (PyTorch, NLTK) <br />
+**Code**: Lua, LuaU, Python (PyTorch, NLTK), JS+TS (half) <br />
 **AI/ML**: LLM Fine-Tuning, Sentiment Analysis, NLP <br />
 **Design**: Figma, Adobe After Effects, Abode Photoshop, Abode Lightroom, Blender <br />
 
