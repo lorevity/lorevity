@@ -19,8 +19,14 @@
 
 <br/>
 
-<img width="172" height="286" alt="SecondSide" src="https://github.com/user-attachments/assets/d735d100-2668-4b27-8883-a554dac6b2d9" align=right />
+<img width="172" height="344" alt="SecondSide" src="https://github.com/user-attachments/assets/8520ccf8-4925-4342-b330-2ff3062624c6" align=right />
 <img width="650" height="111" alt="Skills" src="https://github.com/user-attachments/assets/d57ac8c7-634d-4825-bb52-0a6ddbc58df8" />
 
 <br/>
 <br/>
+
+- **LuaU**: because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
+
+- **Python**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
+
+- **JavaScript & TypeScript**: are also used to create mini-projects, the same plug-ins for Discord, or some utilities for quick work with other projects, that is, chaining.
