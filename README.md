@@ -26,11 +26,11 @@
 <br/>
 <br/>
 
-- **LuaU**: because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
+- **LuaU**: Because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
 
-- **Python**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
+- **Python**: Which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
 
-- **JavaScript & TypeScript**: are also used to create mini-projects, the same plug-ins for Discord, or some utilities for quick work with other projects, that is, chaining.
+- **JavaScript & TypeScript**: Are also used to create mini-projects, the same plug-ins for Discord, or some utilities for quick work with other projects, that is, chaining.
 
 #
 
@@ -44,4 +44,4 @@
 
 - **[Discord](https://discord.com/users/937392908200472649)**: My tag is lorevity. This is the main social network where I spend the most time. Write to me, I will be glad to have a conversation with you.
 
-- **[YouTube](https://www.youtube.com/@lorevity)**: is my social channel where I occasionally post reviews of my projects. You can expect my new projects on this channel, because I will be releasing them soon.
+- **[YouTube](https://www.youtube.com/@lorevity)**: Is my social channel where I occasionally post reviews of my projects. You can expect my new projects on this channel, because I will be releasing them soon.
