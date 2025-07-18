@@ -35,7 +35,7 @@
 
 <br/>
 
-<img width="172" height="278" alt="ThirdSide" src="https://github.com/user-attachments/assets/f618e779-f4b6-4135-ad38-dce3ba49c949" align=right />
+<img width="172" height="262" alt="ThirdSide" src="https://github.com/user-attachments/assets/7d19ea22-8021-4be7-ac69-4c54ec84b921" align=right />
 <img width="650" height="111" alt="Social" src="https://github.com/user-attachments/assets/87ec5e77-03f7-4ed0-af14-07a5b628703f" />
 
 <br/>
