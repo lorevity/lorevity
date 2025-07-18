@@ -13,7 +13,7 @@
 
 - No, I don't ignore the purity of the code and the neatness of my work, as many do. I have always adhered to perfectionism and tried to become a better person in order to create high-quality work. Obviously, there is no ideal, but I always adhere to the good readability of my code, or the type of my visual work.
 
-- I'm always glad to communicate with new people, whether it is correct criticism, or mutual help, or maybe just communication. My social networks are listed in the list below. If you want to ask me a question or ask for help, then write to me at any time, preferably immediately clarifying your goal, https://nohello.net/ is an example of this.
+- I'm always glad to communicate with new people, whether it is correct criticism, or mutual help, or maybe just communication. My social networks are listed in the section below. If you want to ask me a question or ask for help, then write to me at any time, preferably immediately clarifying your goal, https://nohello.net/ is an example of this.
 
 #
 
