@@ -26,11 +26,11 @@
 <br/>
 <br/>
 
-- **LuaU**: because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
+- **[LuaU](https://create.roblox.com/docs/luau)**: because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
 
-- **Python**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
+- **[Python](https://www.python.org/)**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
 
-- **JavaScript & TypeScript**: are also used to create mini-projects, the same plug-ins for Discord, or some utilities for quick work with other projects, that is, chaining.
+- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [TypeScript](https://www.typescriptlang.org/)**: are also used to create mini-projects, the same plug-ins for Discord, or some utilities for quick work with other projects, that is, chaining.
 
 #
 
