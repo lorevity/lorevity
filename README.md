@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-- **[LuaU](https://create.roblox.com/docs/luau)** & [Lua](https://www.lua.org/docs.html): because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
+- **[LuaU](https://create.roblox.com/docs/luau) & [Lua](https://www.lua.org/docs.html)**: because I spent most of my time creating projects in Roblox on the two sides of exploitation and honest development. So to speak, classification as blue-hat, white-hat and black-hat. For this reason, this my main language, and all the others are additional.
 
 - **[Python](https://www.python.org/)**: which I mostly use to create mini-projects like discord-chat-bot, or automated systems for my own benefit or the benefit of other people.
 
