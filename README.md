@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- I'm a developer who mostly works solo. My ambition is to create various projects based on my admiration and desire to improve or automate various systems created by me and other people.
+- I'm a freelance developer who mostly works solo. My ambition is to create various projects based on my admiration and desire to improve or automate various systems created by me and other people.
   
 - I've been specializing in LuaU for about 6-7 years now, so I can consider myself both a back-end and front-end developer. I'm also related to creating a graphical interfaces, its operations, and mini-react automations. My projects include a large number of interface libraries, created both for myself and for other people in order.
 
