@@ -8,7 +8,7 @@
 
 - I'm a freelance developer who mostly works solo. My ambition is to create various projects based on my admiration and desire to improve or automate various systems created by me and other people.
   
-- I've been specializing in LuaU for about 6-7 years now, so I can consider myself both a back-end and front-end developer. I'm also related to creating a graphical interfaces, its operations, and mini-react automations. My projects include a large number of interface libraries, created both for myself and for other people in order.
+- I've been specializing in LuaU for about 6-7 years now. I'm also related to creating a graphical interfaces, its operations, and mini-react automations, so I can consider myself both a back-end and front-end developer. My projects include a large number of interface libraries, created both for myself and for other people in order.
 
 - In fact, my hobbies go into different areas. Whether it's animation, design, and so on. That's because I work alone and I'm always creating something on my own. I also don't mind working in a good team, but most of the time all my projects involved only one person.
 
