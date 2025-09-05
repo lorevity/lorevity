@@ -10,7 +10,7 @@
   
 - I've been specializing in LuaU for about 6-7 years now. I'm also related to creating a graphical interfaces, its operations, and mini-react automations, so I can consider myself both a back-end and front-end developer. My projects include a large number of interface libraries, created both for myself and for other people in order.
 
-- In fact, my hobbies go into different areas. Whether it's animation, design, and so on. That's because I work alone and I'm always creating something on my own. I also don't mind working in a good team, but most of the time all my projects involved only one person.
+- In fact, my hobbies go into different areas. Whether it's animation, design, and so on. That's because I'm working alone so I'm always creating something on my own. I don't mind working in a good team, but most of the time all my projects involved only one person.
 
 - No, I don't ignore the purity of the code and the neatness of my work. I have always adhered to perfectionism and tried to become a better person in order to create high-quality work. Obviously, there is no ideal, but I always adhere to the good readability of my code, or the type of my visual work.
 
